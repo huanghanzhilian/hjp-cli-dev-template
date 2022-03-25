@@ -1,6 +1,6 @@
 {
-  "name": "hjp-cli-dev-lego-components",
-  "version": "1.0.0",
+  "name": "hjp-cli-dev-lego-component",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
